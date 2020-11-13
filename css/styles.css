@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;900&family=Ubuntu:wght@400;700&display=swap');
+
+html {
+    font-family: "Montserrat";
+    font-weight: 900;
+}
+
+#title {
+    background-color: #ff4c68;
+}
+
+h1 {
+    font-size: "Montserrat-Black";
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}

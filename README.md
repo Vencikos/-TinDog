@@ -1,2 +1,1 @@
-# TinDog Udemy project.
-Making a responsive website with Bootstrap 4.
+TinDog Starting Files
