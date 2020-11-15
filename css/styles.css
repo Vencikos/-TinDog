@@ -92,13 +92,14 @@ h1, h2, h3 {
     right: 30%;
 }
 
-@media screen and (max-width:1030px) {
+@media (max-width:1028px) {
     .title-image {
       position: static;
       transform: rotate(0deg);
+      padding-top: 3rem;
     }    
 
-    #title {
+    #title .container-fluid {
         text-align: center;
     }
 }
